@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "*",
+    "mocha": "^6.2.0"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha"
+  },
+  "name": "dockernodejsproject",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "author": "venmani",
+  "license": "TEKAFFORDE",
+  "description": "Sample NodeJS Project with Express FrameWork and Running in Docker Container"
+}
